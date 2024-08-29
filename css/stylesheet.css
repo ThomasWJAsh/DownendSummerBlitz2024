@@ -1,0 +1,32 @@
+
+body        { text-align:left; background: #ffffff }
+A           { font-family: "Verdana", "Arial", "monospace"; text-decoration: none; color:#0000A0; }
+a:hover     { text-decoration : underline;}
+A:active    { background: silver; color: blue}
+a:visited   { color: #9B170D; text-decoration : none;}
+a.db:hover  { text-decoration : underline; background: "#ECECEC";}
+A.db:active { background: silver;}
+a.db:visited{ color: #9B170D; text-decoration : none;}
+h3          { font-family: "Verdana", "Arial", monospace; font-size:10pt;margin: 6px 0px 6px 0px;border: 0px 0px 0px 0px;padding: 0px 0px 0px 0px; background: #C8C8C8;}
+H3.grau     { font-style: bold; background: #DADADA }
+H3.xgrau    { font-style: bold; background: #F0F0F0 }
+p           { font-family: "Verdana", "Arial", monospace; margin:  6px 10px 6px 3px; font-size: 10pt; text-align:left; border: 1px 1px 1px 1px; padding: 0px 0px 0px 0px;}
+p.center    { text-align:center }
+LI          { margin-right: 10px; margin-left: 3px; font-size: 10pt; font-family: "Verdana", "Arial", "monospace"; text-align:left }
+LI.bs	    { font-size: 10pt; font-family: "Courier New"; text-align:left }
+UL          { font-size: 10pt; font-family: "Verdana", "Times New Roman", "monospace"; margin: 7px 0px 7px 20px; }
+OL          { font-size: 10pt; font-family: "Verdana", "Times New Roman", "monospace" }
+table       { font-family: "Verdana", "Arial", monospace; }
+tr          { font-family: "Verdana", "Arial", monospace; }
+tr.g1b      { border-color: black; color: black; background:#DBDFE8; font-weight: bold; }
+tr.g1       { border-color: black; color: black; background:#F4F4F4;}
+tr.g2       { border-color: black; color: black; background:#EBECF1;}
+td          { font-family: "Verdana", "Arial", monospace; margin-left:1px; padding-left: 1rem; padding-right: 1rem;}
+td.l        { text-align: left}
+td.c        { text-align: center}
+td.cw       { text-align: center; background:white;}
+td.cb       { text-align: center; color:white; background:gray; font-weight: bold;}
+td.r        { text-align: right}
+td.b        { font-weight: bold; }
+h3.ob       { background: None; margin: 7px 0px 7px 0px}
+table.s1     { font-family: "Verdana", "Arial", monospace; font-size: 9pt; background:#F4F4F4; border:0; width: 100%; }
